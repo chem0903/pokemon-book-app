@@ -6,7 +6,7 @@ import Card from './Components/Card';
 import Navbar from './Components/Navbar';
 
 function App() {
-  const INITIAL_URL = "https://pokeapi.co/api/v2/pokemon";
+  const INITIAL_URL = "https://pokeapi.co/api/v2/pokemonaaaa";
   const [isloading, setIsLoading] = useState(true);
   const [pokemonData, setPokemonData] = useState([]);
   const [nextURL, setNextURL] = useState("");
