@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokemon-book-app/static/css/main.3bf99ac1.css",
+    "main.js": "/pokemon-book-app/static/js/main.f70ba88b.js",
+    "index.html": "/pokemon-book-app/index.html",
+    "main.3bf99ac1.css.map": "/pokemon-book-app/static/css/main.3bf99ac1.css.map",
+    "main.f70ba88b.js.map": "/pokemon-book-app/static/js/main.f70ba88b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bf99ac1.css",
+    "static/js/main.f70ba88b.js"
+  ]
+}
