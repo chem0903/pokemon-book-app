@@ -20,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://chem0903.github.io",
+  "homepage": "http://chem0903.github.io/u-pokedex-with-react",
   "eslintConfig": {
     "extends": [
       "react-app",
